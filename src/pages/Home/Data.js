@@ -13,3 +13,19 @@ export const homeObjOne = {
   alt: 'Image',
   start: ''
 };
+
+export const homeObjTwo = {
+  lightBg: false,
+  primary: true,
+  imgStart: 'start',
+  lightTopLine: true,
+  lightTextDesc: true,
+  buttonLabel: '',
+  description: 'Your adventures are just beginning! Explore hundreds of parks, trails and scenic areas all around the Pacific North West',
+  headline: 'Beautiful Locations and Scenery',
+  lightText: true,
+  topLine: 'The World Is Yours For The Taking',
+  img: require('../../images/Flowers.jpg'),
+  alt: 'Image',
+  start: 'true'
+};
