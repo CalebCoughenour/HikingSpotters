@@ -44,10 +44,10 @@ const Navbar = () => {
                 <NavLinks to='/'>Home</NavLinks>
               </NavItem>
               <NavItem>
-                <NavLinks to='/services'>Photos</NavLinks>
+                <NavLinks to='/photos'>Photos</NavLinks>
               </NavItem>
               <NavItem>
-                <NavLinks to='/products'>Hiking Spots</NavLinks>
+                <NavLinks to='/hiking-spots'>Hiking Spots</NavLinks>
               </NavItem>
             </NavMenu>
           </NavbarContainer>
